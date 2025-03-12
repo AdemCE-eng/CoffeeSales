@@ -28,7 +28,7 @@ Here are some of the key visualizations generated in this project:
 - **Libraries:** Pandas, Matplotlib, Seaborn  
 - **Jupyter Notebook** for coding and visualization  
 
-## 🚀 How to Run  
-1. **Clone this repository:**  
-   ```bash
-   git clone https://github.com/AdemCE-eng/CoffeSales.git
+## 📦 Installation  
+To install the required dependencies, run the following command:  
+```bash
+pip install -r requirements.txt
