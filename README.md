@@ -17,11 +17,11 @@ The goal is to understand **sales trends, popular payment methods, and best-sell
 ## 📸 Visualizations  
 Here are some of the key visualizations generated in this project:  
 1. **Sales Trend Over Time** 📈  
-   ![Sales Trend](Visualizations/Daily_sales_trend.png)  
+   ![Sales Trend](visualizations/Daily_sales_trend.png)  
 2. **Payment Method Distribution** 💳  
-   ![Payment Distribution](Visualizations/Distribution_of_payment_methods.png)  
+   ![Payment Distribution](visualizations/Distribution_of_payment_methods.png)  
 3. **Top-Selling Drinks** ☕  
-   ![Top Drinks](Visualizations/Best_selling_product.png)  
+   ![Top Drinks](visualizations/Best_selling_product.png)  
 
 ## 🛠️ Technologies Used  
 - **Programming Language:** Python 🐍  
