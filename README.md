@@ -18,13 +18,13 @@ The findings are intended to support data-driven decision-making and optimize th
 ## 📸 Visual Highlights
 Selected visualizations from the analysis:
 1. **📈 Daily Sales Trend**  
-   ![Daily Sales Trend](visualizations/Daily_sales_trend.png)
+   ![Daily Sales Trend](Visualizations/Daily_sales_trend.png)
 2. **☕ Best-Selling Products**  
-   ![Best Selling Products](visualizations/Best_selling_product.png)
+   ![Best Selling Products](Visualizations/Best_selling_product.png)
 3. **💳 Payment Method Distribution**  
-   ![Payment Distribution](visualizations/Distribution_of_payment_methods.png)
+   ![Payment Distribution](Visualizations/Distribution_of_payment_methods.png)
 4. **⏰ Peak Sales Hours**  
-   ![Peak Sales](visualizations/Peak_sales_analysis.png)
+   ![Peak Sales](Visualizations/Peak_sales_analysis.png)
 
 ## 🛠️ Tools & Technologies
 - **Programming:** Python 🐍
