@@ -21,9 +21,7 @@ Selected visualizations from the analysis:
    ![Daily Sales Trend](Visualizations/Daily_sales_trend.png)
 2. **☕ Best-Selling Products**  
    ![Best Selling Products](Visualizations/Best_selling_product.png)
-3. **💳 Payment Method Distribution**  
-   ![Payment Distribution](Visualizations/Distribution_of_payment_methods.png)
-4. **⏰ Peak Sales Hours**  
+3. **⏰ Peak Sales Hours**  
    ![Peak Sales](Visualizations/Peak_sales_analysis.png)
 
 ## 🎯 Next Steps / Recommendations
@@ -39,8 +37,9 @@ Selected visualizations from the analysis:
 ## ⚙️ Installation
 To replicate this project, install the dependencies by running:
 ```bash
+git clone https://github.com/AdemCE-eng/CoffeeSales.git
+cd CoffeeSales
 pip install -r requirements.txt
-
 ```
 ## 📘 Notebook
 You can view the full Jupyter Notebook [here](Coffee_Sales_Analysis.ipynb) for detailed code, visualizations, and analysis.
